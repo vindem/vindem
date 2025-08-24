@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vindem, and I work as a researcher in Computer Science at the TU Wien.
+- 👋 Hi, I’m @vindem, and I work as a researcher in Computer Science at the University of Leicester and TU Wien.
 - 👀 I’m interested in HPC, scientific computing and Quantum Computing.
 - 🌱 I’m currently learning qiskit and different quantum computing frameworks.
 - 💞️ I’m looking to collaborate on open source projects involving quantum and scientific computing.
